@@ -89,9 +89,9 @@ body{
     justify-content: center;
     display: flex;
 }
-.row input{
+.row input {
     padding: -6px 0px 0px;
-    margin: 12px 0px;
+    margin: 15px 0px;
     border-radius: 50px;
     font-size: 20px;
 }
